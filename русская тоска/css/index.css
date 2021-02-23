@@ -1,0 +1,87 @@
+#brand-text{
+	font-size: 170%;
+	font-family: Monster;
+}
+html {scroll-behavior: smooth;
+	overflow-y: scroll;}
+
+main{margin-top: 50px;}
+.nav-item:hover{
+
+}
+.carousel-item{
+	max-height: 600px;
+}
+.carousel-item img{
+	max-height: 600px;
+}
+
+.car-text {
+	font-family: Resphekt;
+		font-size: 70px;
+		text-align: center;
+		text-shadow: 3px 3px 5px black;
+
+}
+
+.car-header {
+	font-family: Resphekt;
+	font-size: 120px;
+			text-align: center;
+		text-shadow: 3px 3px 5px black;
+}
+.car-d1{
+
+	    position: absolute;
+    top: -5%;
+    margin: auto;
+    padding: 2em;
+}
+
+.second-section-txt{
+	font-family: Downcome;
+}
+.first-section-txt{
+	font-family: Elysium;
+}
+
+#lonely-plack-plack{
+		font-size: 19px;
+}
+
+#sec-sec-head{
+	font-size: 60px;
+}
+body{
+	height: 100%;
+}
+@font-face
+{
+    font-family: 'Monster';
+
+    src: url('../fonts/DS-Moster.ttf');
+}
+
+@font-face
+{
+    font-family: 'Belepotan';
+
+    src: url('../fonts/Belepotan.otf');
+}@font-face
+{
+    font-family: 'Resphekt';
+
+    src: url('../fonts/Resphekt.ttf');
+}
+@font-face
+{
+    font-family: 'Downcome';
+
+    src: url('../fonts/Downcome.otf');
+}
+@font-face
+{
+    font-family: 'Elysium';
+
+    src: url('../fonts/Elysium.ttf');
+}
